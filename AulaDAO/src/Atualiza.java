@@ -7,6 +7,7 @@ import javax.servlet.http.*;
 import javax.servlet.annotation.WebServlet;
 
 
+// Responde a URL atualiza
 @WebServlet("/atualiza")
 public class Atualiza extends HttpServlet {
 
